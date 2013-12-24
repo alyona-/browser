@@ -1,0 +1,74 @@
+body {
+    margin:0;
+    padding: 0;
+}
+p {
+    position: absolute;
+    display: block;
+    word-spacing: 40px;
+    min-width: 900px;
+    width:100%;
+    margin-top: 100px;
+    text-indent: 30px;
+    font-family: Arial;
+    font-size: 16pt;
+}
+.text_2 {
+    text-align: center;
+    width: 120px;
+    position: absolute;
+    right: 0;
+    margin-left: 100px;
+    z-index: 1;
+}
+.clean_1 {
+    clear: both;
+}
+.img_2 {
+    position: absolute;
+    z-index: 2;
+    right: 0;
+}
+
+/*Цвета для текста*/
+#Ch1 {
+    color:#22a12a;
+}
+#Ch2 {
+    color:#c90000;
+}
+#Ch3 {
+    color:#f9d411;
+}
+#firefox {
+    color:#f2a414;
+}
+#opera{
+    color:#c10e0e;
+    margin-left: 5px;
+}
+#safari{
+    color:#646464;
+    margin-left: 10px;
+}
+#yandex {
+    margin-left: 5px;
+}
+#yandex span{
+    color:red;
+
+}
+#ie{
+    color:#036da3;
+    top:-15px;
+    text-indent: 5px;
+}
+img {
+    background: #fff;
+}
+.imgs {
+    position: absolute;
+    margin-top: 50px;
+    min-width: 900px;
+    width:100%;
+}
